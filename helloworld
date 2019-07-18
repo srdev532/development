@@ -4,5 +4,10 @@ public class HelloWorld{
 public static void main(String[] args){
 
 System.out.println("hey git hub");
+
+int addition(int x,int y){
+int c=x+y;
+return c;
+}
 }
 }
